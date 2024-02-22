@@ -17,8 +17,8 @@ let x = canvas.width / 2;
 let y = canvas.height - 30;
 
 //Velocidad Pelota
-let dx = -5;
-let dy = -5;
+let dx = -2;
+let dy = -2;
 
 function drawBall() {
     ctx.beginPath();
