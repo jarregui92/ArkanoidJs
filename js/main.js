@@ -3,7 +3,7 @@ const ctx = canvas.getContext('2d');
 
 /*Variables Canva*/
 canvas.width = 448;
-canvas.height = 400;
+canvas.height = 700;
 
 const $sprite = document.querySelector('#sprite')
 const $bricks = document.querySelector('#bricks')
